@@ -9,7 +9,7 @@ Not released
 
 ## 2.4.0
 
-Not released yet
+Released December 15th, 2021
 
 - 🚫 Remove old appraisals for Rails 5.1.x and below (support will be removed in trix-rails 3.x)
 - ✅ Add Appraisal configuration for Rails 7
