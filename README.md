@@ -6,9 +6,9 @@ Want to include Basecamp's awesome [Trix WYSIWYG
 editor](http://trix-editor.org) in your Ruby on Rails application?
 You've come to the right place!
 
-Compatible with Rails 5.0 and up.
+Compatible with Rails 5.2 and up.
 
-_Note: trix-rails 2.x is technically compatible with Rails 4.2 and up, but is no longer tested or maintained. Support for < Rails 5.0 will be dropped in trix-rails 3.x_
+_Note: trix-rails 2.x is technically compatible with Rails 4.2 and up, but is no longer tested or maintained. Support for < Rails 5.2 will be dropped in trix-rails 3.x_
 
 # Installation
 
@@ -85,15 +85,15 @@ For example:
 will render:
 
 ```html
-<trix-editor autofocus="true" data-coffee="delicious">
+<trix-editor autofocus="true" data-coffee="delicious"></trix-editor>
 ```
 
 # Contributing
 
 Bug reports and feature requests are welcome. They're _much_ more likely to be addressed if they are accompanied by a pull request 😘
 
-* [Report a bug](https://github.com/kylefox/trix/issues/new?template=bug_report.md)
-* [Request a feature](https://github.com/kylefox/trix/issues/new?template=feature_request.md)
+- [Report a bug](https://github.com/kylefox/trix/issues/new?template=bug_report.md)
+- [Request a feature](https://github.com/kylefox/trix/issues/new?template=feature_request.md)
 
 ## Testing
 
