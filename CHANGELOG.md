@@ -7,10 +7,15 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 Not released
 
+## 2.4.0
+
+Not released yet
+
 - 🚫 Remove old appraisals for Rails 5.1.x and below (support will be removed in trix-rails 3.x)
 - ✅ Add Appraisal configuration for Rails 7
 - ✅ Relax gemspec to support Rails versions greater than 4.x
-- Bump version to 2.4.0
+- ✅ Setup GitHub CI for running gem tests against Ruby 2.7 and 3.0
+- 💪 Bump version to 2.4.0
 
 ## 2.3.0
 
