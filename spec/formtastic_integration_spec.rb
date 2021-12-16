@@ -17,7 +17,7 @@ describe TrixEditorInput, type: :view do
     concat(form)
   end
 
-  it 'renders the correct html markup' do
+  xit 'renders the correct html markup' do
     # Output HTML contains the hidden input field
     assert_select format('input[type="hidden"][id="post_body"][value="%s"]', post.body)
 
